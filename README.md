@@ -14,7 +14,7 @@ In this internship, we were provided various Tasks and I was able to successfull
 
 2.This is a simple linear regression task as it involves just 2 variables.
 
-3.Data can be found at http://bit.ly/w
+3.Data can be found at http://bit.ly/w-data
 
 4.You can use R, Python, SAS Enterprise Miner or any other tool.
 
@@ -26,7 +26,7 @@ In this internship, we were provided various Tasks and I was able to successfull
 
 2.Use R or Python or perform this task.
 
-3.Data can be found at https://bit.ly/3cGyP8j
+3.Data can be found at https://bit.ly/3kXTdox
 
 # Task-3 : Perform 'Exploratory Data Analysis' .
 
