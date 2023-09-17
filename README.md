@@ -24,7 +24,14 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 Use R or Python or perform this task.
 Data can be found at https://bit.ly/3cGyP8j
 
-# Task-4 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+# Task-3 : Perform 'Exploratory Data Analysis' .
+By using 'SampleSuperstore' perform 'Exploratory Data Analysis' .
+As a business manager,try to find out the weak areas where you can work to make profit.
+What all business problems you can derive by exploring the data?
+Use Tableau as a tool .
+
+
+# Task-6 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 Please click on the images on right side to view my solution.
 
 1.For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
