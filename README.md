@@ -17,14 +17,14 @@ Please click on the images on right side to view my solution.
 4.You can use R, Python, SAS Enterprise Miner or any other tool.
 5.What will be predicted score if a student studies for 9.25 hrs/ day?
 
-# Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+# Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 Please click on the images on right side to view my solution.
 
-1.For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
-2.The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
-3.Data can be found at https://bit.ly/3kXTdox
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+Use R or Python or perform this task.
+Data can be found at https://bit.ly/3cGyP8j
 
-# Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+# Task-4 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 Please click on the images on right side to view my solution.
 
 1.For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
